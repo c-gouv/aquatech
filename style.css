@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: black;
+    background-color: white;
 }
 li {
     list-style: none;
@@ -12,6 +12,7 @@ li {
     border-bottom: 3px solid #32b9cd;
     display: flex;
     justify-content: center;
+    background-color: black;
 }
 .container {
     width: 80%;
